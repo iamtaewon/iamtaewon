@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hi!%20I%20am%20Taewon&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20&descAlign=70.)
- <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
- https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+ <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=#3776AB&logoColor=white"/>
+ 
