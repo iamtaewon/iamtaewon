@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **iamtaewon/iamtaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![slice](https://capsule-render.vercel.app/api?type=slice&color={
-        "idx": 0,
-        "color": {
-            "0" : "F8B195",
-            "50" : "F67280",
-            "100" : "C06C84"
-        }&height=200&text=Hi!%20I%20am%20Taewon&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=&color=gradient&height=200&text=Hi!%20I%20am%20Taewon&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
