@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hi!%20I%20am%20Taewon&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
+![slice](https://capsule-render.vercel.app/api?type=slice&color={
+        "idx": 0,
+        "color": {
+            "0" : "F8B195",
+            "50" : "F67280",
+            "100" : "C06C84"
+        }&height=200&text=Hi!%20I%20am%20Taewon&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
