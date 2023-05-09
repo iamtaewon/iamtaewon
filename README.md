@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/R-blue?logo=R"/></a>&nbsp
   <img src="https://img.shields.io/badge/RStudio-blue?logo=RStudio"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=round-square&logo=Slack&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">⚡️ Contact Me ⚡️</h3>
