@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=round-square&logo=Slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000?style=round-square&logo=Notion&logoColor=white"></a>&nbsp
 </p>
 
 <h3 align="center">⚡️ Contact Me ⚡️</h3>
