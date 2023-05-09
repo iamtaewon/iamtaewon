@@ -10,7 +10,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=round-square&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=round-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp <br>
   <img src="https://img.shields.io/badge/R-blue?logo=R"/></a>&nbsp
