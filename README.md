@@ -5,7 +5,7 @@
 
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
-  <b>Studying Big Data Analysis</b> 🧑🏻‍💻
+  <b>Studying Data Analysis</b> 🧑🏻‍💻
 </p>
 
 <h3 align="center">📚 Studying 📚</h3>
